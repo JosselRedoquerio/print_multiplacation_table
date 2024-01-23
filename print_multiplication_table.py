@@ -4,3 +4,8 @@ for x in range(1, 11):
     for y in range(1, 11):
         print(x * y, end= " ")
     print("\n")
+
+for a in range(1, 21):
+    for b in range(1, 21):
+        print(a * b, end= " ")
+    print("\n")
